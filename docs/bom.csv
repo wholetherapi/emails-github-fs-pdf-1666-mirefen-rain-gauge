@@ -1,6 +1,0 @@
-part,quantity,description
-SW1-SW2,2,Reed switch with magnetic bucket pickup
-U1,1,STM32G030 microcontroller
-U2,1,LM317 heater regulator
-H1,1,12 V cartridge heater 20 W
-F1,1,Funnel screen 0.5 mm
